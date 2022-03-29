@@ -9,7 +9,7 @@ I also thought that squares would be better but circle allows diagonal movements
 
 ## original readme: (most of it was deleted)
 
-# flutter_gesture_password
+# [flutter_gesture_password](https://github.com/yubo725/flutter-gesture-password)
 
 A flutter gesture password widget.
 
